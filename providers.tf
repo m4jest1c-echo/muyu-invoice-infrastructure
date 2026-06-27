@@ -18,7 +18,7 @@ provider "aws" {
       Project    = "Muyu"
       ManagedBy  = "Terraform"
       Repository = "muyu-infrastructure"
-      Owner      = "<your-name-here>"
+      Owner      = "Grover Pinto"
     }
   }
 }

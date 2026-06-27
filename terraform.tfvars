@@ -1,1 +1,5 @@
-# Reserved for future local Terraform variable values.
+vpc_cidr              = "10.4.0.0/16"
+public_subnet_1_cidr  = "10.4.1.0/24"
+public_subnet_2_cidr  = "10.4.2.0/24"
+private_subnet_1_cidr = "10.4.3.0/24"
+private_subnet_2_cidr = "10.4.4.0/24"
